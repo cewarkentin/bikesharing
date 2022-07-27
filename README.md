@@ -6,6 +6,8 @@ To analyze data from the bike rental company Citi Bike in New York City in order
 
 ## Results
 
+[https://public.tableau.com/views/Challenge14D3/Challenge14?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Challenge14D3/Challenge14?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ### Duration x All Riders
 ![D2.1](https://github.com/cewarkentin/bikesharing/blob/main/D2.1.png)
 
